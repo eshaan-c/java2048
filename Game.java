@@ -1,4 +1,4 @@
-package org.cis1200;
+package org.cis1200.game2048;
 
 import javax.swing.*;
 
